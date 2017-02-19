@@ -1,2 +1,2 @@
 # scratch
-creating Scratch projects and working collaboratively.
+Creating Scratch projects and working collaboratively.
